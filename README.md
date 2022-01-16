@@ -1,7 +1,5 @@
 ## Hello world, i'm lucas hildever👋
-<br>
-![Snake animation](https://github.com/lucashildever/lucashildever/blob/output/github-contribution-grid-snake.svg)
-<br>
+
   ### Technologies:
  
   <div style="display: inline_block"><br>
