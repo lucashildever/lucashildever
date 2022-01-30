@@ -4,7 +4,7 @@
   <a href="https://www.linkedin.com/in/lucas-hil/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
  
-  I'm a brazilian fullstack developer and software engineering student. I love to study new languages and i beliver technology can change the world!
+  I'm a brazilian full stack developer and software engineering student. I love to study new languages and i beliver technology can change the world!
  
   
   ### ⚡Tech Stack:
