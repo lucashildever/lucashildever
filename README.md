@@ -22,5 +22,5 @@
   </div>
   <br>
   
-  <a href="https://github.com/lucashildever/Portfolio">Click here to go to my portfolio!</a> 
+  #### <i><a href="https://github.com/lucashildever/Portfolio" target="_blank" rel="noopener noreferrer" style='font-size: 5'>Click here to check out my portfolio!</a></i>
   
