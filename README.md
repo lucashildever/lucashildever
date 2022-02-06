@@ -22,5 +22,6 @@
   </div>
   <br>
   
-  #### <i><a href="https://github.com/lucashildever/Portfolio" target="_blank" rel="noopener noreferrer" style='font-size: 5'>Click here to check out my portfolio!</a></i>
+  #### <i><a href="https://lucashildever.github.io/Portfolio/" target="_blank" rel="noopener noreferrer" style='font-size: 5'>Click here to check out my portfolio!</a></i>
+  <br>
   
