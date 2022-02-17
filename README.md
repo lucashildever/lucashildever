@@ -23,6 +23,6 @@
     <img align="center" alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
   </div>
   
-  #### <i><a href="https://lucashildever.github.io/Portfolio/" target="_blank" rel="noopener noreferrer" style='font-size: 5'>Click here to check out my portfolio</a></i>
+  ### <i><a href="https://lucashildever.github.io/Portfolio/" target="_blank" rel="noopener noreferrer" style='font-size: 5'>Portfolio</a></i>👨🏻‍💻
   <br>
   
